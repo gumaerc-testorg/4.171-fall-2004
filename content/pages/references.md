@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: References
 uid: 8e629f2c-820f-14fd-eee5-a9442b2eaada
 ---
@@ -8,7 +10,7 @@ Instead of traditional readings, the class studied the following precedents as a
 
 Sandra Baron
 ------------
-{{< image-gallery id="8e629f2c-820f-14fd-eee5-a9442b2eaada_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-171-the-space-between-workshop-fall-2004/" >}}
+{{< image-gallery id="8e629f2c-820f-14fd-eee5-a9442b2eaada_nanogallery2" baseUrl="/courses/4-171-the-space-between-workshop-fall-2004/" >}}
 {{< image-gallery-item href="7cd5d6141dba56f55c70bc7106c12b91_1.jpg" data-ngdesc="A diagram of a Roman house from the first century AD. Image courtesy of Sandra Baron." text="A diagram of a Roman house from the first century AD." >}}
 {{< image-gallery-item href="0fe42c2d2469a27300f0b63246063ab3_2.jpg" data-ngdesc="A diagram of a Spanish villa, a popular courtyard house typology owing to Roman influence. Image courtesy of Sandra Baron." text="A diagram of a Spanish villa, a popular courtyard house typology owing to Roman influence." >}}
 {{< image-gallery-item href="c6b3c1776e6b6f0a8f06de0ef5b78412_3.jpg" data-ngdesc="An image of the Space Between: A gap between buildings in Bostons North End. Image courtesy of Sandra Baron." text="An image of the Space Between: A gap between buildings in Bostons North End." >}}

@@ -9,8 +9,12 @@ description: In this handout a description of the day to day workings and proces
   the students hopefully understand better the ramifications of their designs on the
   surrounding spaces, and consider them as integral a part of the design process as
   the buildings themselves.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-171-the-space-between-workshop-fall-2004/775e4fa79eff13fb3cca1e3a379dd561_explor_prototype.pdf
+file: /media/courses/4-171-the-space-between-workshop-fall-2004/775e4fa79eff13fb3cca1e3a379dd561_explor_prototype.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Document
 title: explor_prototype.pdf
 uid: 775e4fa7-9eff-13fb-3cca-1e3a379dd561
