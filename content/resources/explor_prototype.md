@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 4d869bd3-39d1-9104-3d20-4c9ff2f9fa05
 resourcetype: Document
 title: explor_prototype.pdf
 uid: 775e4fa7-9eff-13fb-3cca-1e3a379dd561

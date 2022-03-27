@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0bcf7875-aeca-ce03-9079-b5bdd8cf84ca
 resourcetype: Document
 title: baron.pdf
 uid: b6431961-8b9a-8eb4-cf20-affc5ca96768

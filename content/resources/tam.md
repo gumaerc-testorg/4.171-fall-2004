@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0bcf7875-aeca-ce03-9079-b5bdd8cf84ca
 resourcetype: Document
 title: tam.pdf
 uid: 9ffc30b1-3d61-49f6-32b1-c356c290e943
