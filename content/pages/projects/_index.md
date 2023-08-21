@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -12,7 +13,7 @@ The work of the students in the workshop is presented here, along with brief sta
 Sandra Baron
 ------------
 
-"As a growing population we could greatly benefit from looking beyond the obvious spatial boundaries and into the more ambiguous areas of the semi-public and the visual. We tend to be spatially acquisitive and feel comfortable behind the definite boundary of our white picket fence. The question exists: can we ever look at space as a shared entity? And on the topic of non-physical space, could we ever embrace the idea of the visual as a public right and benefit to a point where it is preserved and on some occasions designed?" (Read the full text here: [PDF]({{< baseurl >}}/resources/baron))
+"As a growing population we could greatly benefit from looking beyond the obvious spatial boundaries and into the more ambiguous areas of the semi-public and the visual. We tend to be spatially acquisitive and feel comfortable behind the definite boundary of our white picket fence. The question exists: can we ever look at space as a shared entity? And on the topic of non-physical space, could we ever embrace the idea of the visual as a public right and benefit to a point where it is preserved and on some occasions designed?" (Read the full text here: {{% resource_link b6431961-8b9a-8eb4-cf20-affc5ca96768 "PDF" %}})
 
 All images in this gallery are courtesy of Sandra Baron.
 {{< image-gallery id="0bcf7875-aeca-ce03-9079-b5bdd8cf84ca_nanogallery2" baseUrl="/courses/4-171-the-space-between-workshop-fall-2004/" >}}
