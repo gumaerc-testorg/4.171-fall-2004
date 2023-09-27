@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the topics for the 13 weeks of the course along with
+  the key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

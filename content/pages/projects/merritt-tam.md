@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -13,7 +14,7 @@ uid: d109ddfe-bcc8-8983-ab16-a2d6916faa4c
 Merritt Tam
 -----------
 
-"Society teaches us to focus on objects and things; when we look at a city, we see the buildings and structures; when we visit a museum, we focus on the objects of art. What many of us fail to realize is the importance of the space between, around, and within those objects." (Read the full text here: [PDF]({{< baseurl >}}/resources/tam))
+"Society teaches us to focus on objects and things; when we look at a city, we see the buildings and structures; when we visit a museum, we focus on the objects of art. What many of us fail to realize is the importance of the space between, around, and within those objects." (Read the full text here: {{% resource_link 9ffc30b1-3d61-49f6-32b1-c356c290e943 "PDF" %}})
 
 All images in this gallery are courtesy of Merritt Tam.
 {{< image-gallery id="d109ddfe-bcc8-8983-ab16-a2d6916faa4c_nanogallery2" baseUrl="/courses/4-171-the-space-between-workshop-fall-2004/" >}}
