@@ -24,7 +24,7 @@ A description of the day to day workings and processes of the studio are describ
 Articles
 --------
 
-These two articles on the Space Between, also mentioned in the text above, are from the journal [Places](http://www.places-journal.org/), and used with permission.
+These two articles on the Space Between, also mentioned in the text above, are from the journal {{% resource_link "f9a074ea-6d3c-4d51-967e-01762a6332c1" "Places" %}}, and used with permission.
 
 "The Space Between" ({{% resource_link 61434770-a908-d6fc-6f4f-fd6481837884 "PDF" %}})
 
