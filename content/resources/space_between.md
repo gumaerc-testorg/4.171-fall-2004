@@ -7,6 +7,7 @@ description: This handout contains an article authored by the course instructor 
   these instances, beautiful and inspirational public spaces were purposefully created
   and how the spaces in these cities are more than just leftover.
 file: /courses/4-171-the-space-between-workshop-fall-2004/61434770a908d6fc6f4ffd6481837884_space_between.pdf
+file_size: 813017
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
