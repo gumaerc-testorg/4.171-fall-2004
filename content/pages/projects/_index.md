@@ -4,6 +4,7 @@ description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
+show_section_pages: true
 title: Projects
 uid: 0bcf7875-aeca-ce03-9079-b5bdd8cf84ca
 ---
