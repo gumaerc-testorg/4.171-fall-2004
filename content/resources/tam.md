@@ -2,7 +2,7 @@
 content_type: resource
 description: Final statement about the workshop. This text is courtesy of Merritt
   Tam, a student in the course.
-file: /ol-ocw-studio-app/courses/4-171-the-space-between-workshop-fall-2004/9ffc30b13d6149f632b1c356c290e943_tam.pdf
+file: /courses/4-171-the-space-between-workshop-fall-2004/9ffc30b13d6149f632b1c356c290e943_tam.pdf
 file_size: 11386
 file_type: application/pdf
 learning_resource_types:
